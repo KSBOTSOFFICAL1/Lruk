@@ -248,7 +248,7 @@ CHANNELS_FILE    = join(DATA_DIRECTORY, "channels.json")
 # users; the underlying stream URL is looked up server-side and passed
 # straight to FFmpeg. Never expose these values in any reply text.
 BOT_CHANNELS = {
-    "POGO": "https://ranapkz.site/RANAPK33w/TVD/play.php?id=372993",
+    "POGO": "https://ranapkx.site/RANAPK33k/TVD/play.php?id=372993",
     "CARTOON NETWORK": "https://ksr.indevs.in/m3u/?stream=475130",
     "DISCOVERY KIDS": "https://ksr.indevs.in/m3u/?stream=475132",
     "DISNEY TV": "https://ksr.indevs.in/m3u/?stream=475134",
@@ -257,7 +257,7 @@ BOT_CHANNELS = {
     "SONIC": "https://ksr.indevs.in/m3u/?stream=475138",
     "NICK JR": "https://ksr.indevs.in/m3u/?stream=476786",
     "MINIX": "https://vodzong.mjunoon.tv:8087/streamtest/157-1M/chunks.m3u8",
-    "POGO 2": "http://line.sweetv.xyz/play/live.php?mac=00:1A:79:00:03:B2&stream=156128&extension=ts&play_token=9sBGXoBcMI",
+    "POGO 2": "https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281410",
     "DISCOVERY KIDS 2": "http://line.sweetv.xyz/play/live.php?mac=00:1A:79:00:03:B2&stream=1540017&extension=ts&play_token=eFCOqzrsPI",
     "DISNEY CHANNEL": "http://103.155.18.191:8000/play/a01q/index.m3u8",
     "NICK 2": "http://103.155.18.191:8000/play/a04c/index.m3u8",
